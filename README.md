@@ -5,3 +5,5 @@ Tarea 04.2
 
 3. php bin/console doctrine:database:create
 
+4. php bin/console make:controller
+
